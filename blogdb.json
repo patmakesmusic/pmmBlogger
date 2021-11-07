@@ -1,5 +1,13 @@
 {
   "posts": [
+     {
+      "id": 0,
+      "title": "Welcome!",
+      "date": "Wednesday February 5th 2020",
+      "Content": "Welcome to my new blog! Im excited to have a central home to share all my content with you in one place. You can find my latest content here on the blog, or if you are interested in my services as an artist check out the services page to get in touch!",
+      "Link": "",
+      "Image": "https://raw.githubusercontent.com/patmakes/pmm-images/master/FrontPageDark.png"
+    },
     {
       "id": 1,
       "title": "Live @ Bassline Music Bar",
@@ -78,14 +86,6 @@
       "Link": "",
       "Image": "https://i.imgur.com/NJSaCLT.jpg",
       "id": 10
-    },
-     {
-      "id": 13,
-      "title": "Welcome!",
-      "date": "Wednesday February 5th 2020",
-      "Content": "Welcome to my new blog! Im excited to have a central home to share all my content with you in one place. You can find my latest content here on the blog, or if you are interested in my services as an artist check out the services page to get in touch!",
-      "Link": "",
-      "Image": "https://raw.githubusercontent.com/patmakes/pmm-images/master/FrontPageDark.png"
     }
   ]
 }
